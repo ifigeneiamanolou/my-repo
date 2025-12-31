@@ -1,0 +1,9 @@
+# Placement Year Prep
+
+This repository is used for preparing quant finance and AI placement projects.
+
+## Structure
+- data/: datasets
+- notebooks/: experiments and EDA
+- src/: reusable Python code
+
